@@ -20,7 +20,7 @@ const App = () => {
     return (
         <div className='main-container'>
             
-            <h2>Enter your City:</h2>
+            <h1 className='enter-city'>Enter your City:</h2>
             
             <input 
                 type='text' className='search' placeholder='Search...' value={query} onChange={(e) => setQuery(e.target.value)} onKeyPress={search} 
