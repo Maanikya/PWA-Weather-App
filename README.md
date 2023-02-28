@@ -1,6 +1,6 @@
 # PWA-Weather-App
 
-Visit: https://d4c-weather-app.vercel.app/ to view the deployment.
+Visit: https://d4c-weather.vercel.app/ or https://d4c-weather.netlify.app/ to view the deployment.
 
 ## Available Scripts
 
