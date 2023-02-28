@@ -1,6 +1,6 @@
 {
     "short_name": "Weather App",
-    "name": "Weather App PWA",
+    "name": "d4c-weather-app",
     "icons": [
         {
             "src": "/images/logo.png",
