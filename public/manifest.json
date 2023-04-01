@@ -2,12 +2,20 @@
     "short_name": "Weather App",
     "name": "PWA Weather App",
     "icons": [
-      {
-        "src": "/images/logo.png",
-        "type": "image/png",
-        "sizes": "1024x1024",
-        "purpose": "any"
-      }
+        {
+            "src": "/images/logo.png",
+            "type": "image/png",
+            "sizes": "1024x1024",
+            "purpose": "any"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/images/screenshot.jpg",
+            "sizes": "1280x720",
+            "type": "image/jpg",
+            "platform": "wide"
+        }
     ],
     "start_url": ".",
     "display": "standalone",
@@ -18,7 +26,5 @@
     "dir": "auto",
     "lang": "en",
     "orientation": "any",
-    "categories": [
-      "weather"
-    ]
-  }
+    "categories": ["weather"]
+}
