@@ -1,15 +1,24 @@
 {
     "short_name": "Weather App",
-    "name": "d4c-weather-app",
+    "name": "PWA Weather App",
     "icons": [
-        {
-            "src": "/images/logo.png",
-            "type": "image/png",
-            "sizes": "1024x1024"
-        }
+      {
+        "src": "/images/logo.png",
+        "type": "image/png",
+        "sizes": "1024x1024",
+        "purpose": "any"
+      }
     ],
     "start_url": ".",
     "display": "standalone",
     "theme_color": "#000000",
-    "backgorund_color": "#ffffff"
-}
+    "backgorund_color": "#ffffff",
+    "background_color": "#000000",
+    "description": "PWA Weather App",
+    "dir": "auto",
+    "lang": "en",
+    "orientation": "any",
+    "categories": [
+      "weather"
+    ]
+  }
